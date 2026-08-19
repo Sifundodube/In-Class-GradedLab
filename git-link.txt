@@ -1,2 +1,0 @@
-Replace this line with your public GitHub repository link:
-https://github.com/your-username/food-delivery-app
